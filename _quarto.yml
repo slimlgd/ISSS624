@@ -8,6 +8,7 @@ website:
       - text: hands-on exercise
         menu: 
           - text: hands-on exercise 1
+            href: Hands-on Ex1.qmd
     right:
       - href: index.qmd
         text: Home

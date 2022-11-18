@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "ISSS624",
     "section": "",
-    "text": "Welcome to ISSS624 Applied Geosptial Analytics\nI will share with you my learning exprience on this webpage\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Welcome to ISSS624 Applied Geosptial Analytics\nI will share with you my learning exprience on this webpage"
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,12 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "Hands-on Ex1.html",
+    "href": "Hands-on Ex1.html",
+    "title": "Hands-on Exercise",
+    "section": "",
+    "text": "Overview\nthis is my ISSS624 hands-on exercise 1\n\n\nGetting Started"
   }
 ]

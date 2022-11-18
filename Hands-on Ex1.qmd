@@ -1,0 +1,11 @@
+---
+title: "Hands-on Exercise"
+author: "LIAO Guangda"
+editor: visual
+---
+
+# Overview
+
+this is my ISSS624 hands-on exercise 1
+
+# Getting Started
