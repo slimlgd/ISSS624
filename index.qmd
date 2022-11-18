@@ -1,0 +1,13 @@
+---
+title: "ISSS624"
+---
+
+Welcome to ISSS624 Applied Geosptial Analytics
+
+I will share with you my learning exprience on this webpageu
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+```{r}
+1 + 1
+```
